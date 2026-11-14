@@ -2,6 +2,8 @@
 
 A free, mobile-first practice exam simulator for the **Designing Cisco Enterprise Networks (300-420 ENSLD) v1.1** exam. It is one self-contained HTML file. No install, no account, no server.
 
+Live page: https://lv-dang.github.io/ensld-exam-simulator/
+
 > Not affiliated with or endorsed by Cisco. All questions are original practice items written from public study material and current vendor documentation. They are not real exam questions and contain no exam content.
 
 ## Features
